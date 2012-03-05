@@ -5,11 +5,11 @@ require "awesome-cli/version"
 Gem::Specification.new do |s|
   s.name        = "awesome-cli"
   s.version     = Awesome::Cli::VERSION
-  s.authors     = ["Dave Copeland"]
+  s.authors     = ["David Bryant Copeland"]
   s.email       = ["davetron5000@gmail.com"]
   s.homepage    = ""
-  s.summary     = %q{TODO: Write a gem summary}
-  s.description = %q{TODO: Write a gem description}
+  s.summary     = %q{The gem for Build Awesome Command-Line Applications with Ruby}
+  s.description = %q{The gem for Build Awesome Command-Line Applications with Ruby}
 
   s.rubyforge_project = "awesome-cli"
 
