@@ -22,7 +22,7 @@ Gem::Specification.new do |s|
 --------------------
 
 Thanks for watching 'Shelly Takes a Stroll' and hopefully
-buy my new book:
+buying my new book:
 
 Build Awesome Command-Line Applications with Ruby  
 
