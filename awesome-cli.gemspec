@@ -36,13 +36,27 @@ http://bit.ly/clibook
 
 Thanks!
 
+You can also use this gem to install some of the awesome gems
+I discuss in the book.  Just do this on your command line:
+  
+gem install --development awesome-cli
+
+And you'll get some great gems installed to make AWESOME CLI Apps
+
 - David Bryant Copeland
+
+Buy now: http://bit.ly/clibook
 
 --------------------
 "
 
 
   # specify any dependencies here; for example:
-  # s.add_development_dependency "rspec"
+  s.add_development_dependency "methadone"
+  s.add_development_dependency "aruba"
+  s.add_development_dependency "rainbow"
+  s.add_development_dependency "gli"
+  s.add_development_dependency "gem-man"
+  s.add_development_dependency "ronn"
   # s.add_runtime_dependency "rest-client"
 end
